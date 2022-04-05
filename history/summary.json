@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 157,
-    "timeWeek": 279,
-    "timeMonth": 279,
-    "timeYear": 279,
+    "time": 244,
+    "timeDay": 105,
+    "timeWeek": 244,
+    "timeMonth": 244,
+    "timeYear": 244,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "https://dreamvizslas.com",
     "icon": "https://favicons.githubusercontent.com/dreamvizslas.com",
     "slug": "dream-vizslas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 168,
-    "timeWeek": 219,
-    "timeMonth": 219,
-    "timeYear": 219,
-    "dailyMinutesDown": {}
+    "time": 521,
+    "timeDay": 1124,
+    "timeWeek": 521,
+    "timeMonth": 521,
+    "timeYear": 521,
+    "dailyMinutesDown": {
+      "2022-04-05": 0
+    }
   },
   {
     "name": "My blog",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 178,
-    "timeWeek": 204,
-    "timeMonth": 204,
-    "timeYear": 204,
+    "time": 327,
+    "timeDay": 819,
+    "timeWeek": 327,
+    "timeMonth": 327,
+    "timeYear": 327,
     "dailyMinutesDown": {}
   }
 ]
