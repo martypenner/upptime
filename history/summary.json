@@ -22,18 +22,20 @@
     "url": "https://dreamvizslas.com",
     "icon": "https://favicons.githubusercontent.com/dreamvizslas.com",
     "slug": "dream-vizslas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 406,
-    "timeDay": 1189,
-    "timeWeek": 489,
-    "timeMonth": 406,
-    "timeYear": 406,
-    "dailyMinutesDown": {}
+    "time": 384,
+    "timeDay": 639,
+    "timeWeek": 449,
+    "timeMonth": 384,
+    "timeYear": 384,
+    "dailyMinutesDown": {
+      "2022-04-12": 0
+    }
   },
   {
     "name": "My blog",
