@@ -22,19 +22,19 @@
     "url": "https://dreamvizslas.com",
     "icon": "https://favicons.githubusercontent.com/dreamvizslas.com",
     "slug": "dream-vizslas",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 639,
-    "timeWeek": 449,
-    "timeMonth": 384,
-    "timeYear": 384,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 374,
+    "timeDay": 506,
+    "timeWeek": 430,
+    "timeMonth": 374,
+    "timeYear": 374,
     "dailyMinutesDown": {
-      "2022-04-12": 0
+      "2022-04-12": 11
     }
   },
   {
