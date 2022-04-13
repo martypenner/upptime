@@ -4,18 +4,20 @@
     "url": "https://natemeidingercounselling.com",
     "icon": "https://favicons.githubusercontent.com/natemeidingercounselling.com",
     "slug": "nate-meidinger-counselling",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 101,
-    "timeWeek": 97,
-    "timeMonth": 158,
-    "timeYear": 158,
-    "dailyMinutesDown": {}
+    "time": 159,
+    "timeDay": 138,
+    "timeWeek": 106,
+    "timeMonth": 159,
+    "timeYear": 159,
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "Dream Vizslas",
@@ -29,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 364,
-    "timeDay": 182,
+    "timeDay": 216,
     "timeWeek": 280,
     "timeMonth": 364,
     "timeYear": 364,
