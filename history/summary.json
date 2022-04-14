@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/natemeidingercounselling.com",
     "slug": "nate-meidinger-counselling",
     "status": "down",
-    "uptime": "98.95%",
-    "uptimeDay": "87.96%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "98.95%",
-    "uptimeYear": "98.95%",
+    "uptime": "94.90%",
+    "uptimeDay": "39.12%",
+    "uptimeWeek": "91.30%",
+    "uptimeMonth": "94.90%",
+    "uptimeYear": "94.90%",
     "time": 175,
     "timeDay": 276,
     "timeWeek": 132,
     "timeMonth": 175,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2022-04-14": 72,
+      "2022-04-14": 776,
       "2022-04-13": 101
     }
   },
@@ -43,17 +43,19 @@
     "url": "https://penner.me",
     "icon": "https://favicons.githubusercontent.com/penner.me",
     "slug": "my-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 285,
-    "timeDay": 323,
-    "timeWeek": 183,
-    "timeMonth": 285,
-    "timeYear": 285,
-    "dailyMinutesDown": {}
+    "time": 272,
+    "timeDay": 215,
+    "timeWeek": 173,
+    "timeMonth": 272,
+    "timeYear": 272,
+    "dailyMinutesDown": {
+      "2022-04-14": 0
+    }
   }
 ]
