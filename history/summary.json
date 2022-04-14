@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/natemeidingercounselling.com",
     "slug": "nate-meidinger-counselling",
     "status": "down",
-    "uptime": "94.90%",
-    "uptimeDay": "39.12%",
-    "uptimeWeek": "91.30%",
-    "uptimeMonth": "94.90%",
-    "uptimeYear": "94.90%",
+    "uptime": "94.72%",
+    "uptimeDay": "36.95%",
+    "uptimeWeek": "90.99%",
+    "uptimeMonth": "94.72%",
+    "uptimeYear": "94.72%",
     "time": 175,
     "timeDay": 276,
     "timeWeek": 132,
     "timeMonth": 175,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2022-04-14": 776,
+      "2022-04-14": 807,
       "2022-04-13": 101
     }
   },
@@ -43,19 +43,19 @@
     "url": "https://penner.me",
     "icon": "https://favicons.githubusercontent.com/penner.me",
     "slug": "my-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 272,
-    "timeDay": 215,
-    "timeWeek": 173,
-    "timeMonth": 272,
-    "timeYear": 272,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "97.82%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 343,
+    "timeDay": 588,
+    "timeWeek": 302,
+    "timeMonth": 343,
+    "timeYear": 343,
     "dailyMinutesDown": {
-      "2022-04-14": 0
+      "2022-04-14": 31
     }
   }
 ]
